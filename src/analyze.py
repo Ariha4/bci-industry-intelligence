@@ -18,6 +18,20 @@ FDA_BREAKTHROUGH_PATH = REFERENCE_DIR / "fda_breakthrough_devices.csv"
 
 PHASE_ORDER = ["EARLY_PHASE1", "PHASE1", "PHASE1,PHASE2", "PHASE2", "PHASE2,PHASE3", "PHASE3", "PHASE4", "NA"]
 
+# ClinicalTrials.gov sponsor names aren't fully standardized -- the same
+# company can appear under slightly different legal-entity names across
+# trials (e.g. a company renaming, or a trial registered under a subsidiary
+# name). This map merges known variants we've observed in this dataset so
+# sponsor-level counts aren't artificially split. Extend as new variants
+# turn up in future data refreshes.
+SPONSOR_NAME_ALIASES = {
+    "Synchron Medical, Inc.": "Synchron, Inc.",
+}
+
+
+def _normalize_sponsor(name: str) -> str:
+    return SPONSOR_NAME_ALIASES.get(name, name)
+
 
 def trials_per_year(df: pd.DataFrame) -> pd.DataFrame:
     """Trial count by start year -- the top-line 'is this field growing' chart."""
@@ -53,6 +67,8 @@ def trials_by_condition_and_year(df: pd.DataFrame, top_n: int = 8) -> pd.DataFra
 
 def sponsor_leaderboard(df: pd.DataFrame, top_n: int = 15) -> pd.DataFrame:
     """Trial counts per lead sponsor -- the core competitive-landscape view."""
+    df = df.copy()
+    df["lead_sponsor"] = df["lead_sponsor"].apply(_normalize_sponsor)
     out = (
         df.groupby(["lead_sponsor", "lead_sponsor_class"], as_index=False)
         .size()
@@ -106,6 +122,7 @@ def whitespace_conditions(df: pd.DataFrame, recent_years: int = 3, max_sponsors:
     exploded = df.assign(condition=df["conditions"].str.split("; ")).explode("condition")
     exploded = exploded.dropna(subset=["condition", "start_year"])
     exploded = exploded[exploded["condition"].str.strip() != ""]
+    exploded["lead_sponsor"] = exploded["lead_sponsor"].apply(_normalize_sponsor)
 
     cutoff_year = int(df["start_year"].max()) - recent_years if df["start_year"].notna().any() else None
     recent = exploded[exploded["start_year"] >= cutoff_year] if cutoff_year else exploded
