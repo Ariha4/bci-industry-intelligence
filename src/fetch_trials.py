@@ -113,9 +113,19 @@ def _paginate(params: dict[str, Any], page_size: int = 100, max_pages: int = 20)
 
 
 def fetch_by_intervention() -> list[dict]:
+    """Search for BCI-specific device terms in the intervention name field.
+
+    NOTE: we use `filter.advanced` with an exact-phrase AREA[...] filter
+    here, NOT the loose `query.intr` parameter. `query.intr` does relevance-
+    ranked "bag of words" matching across a broader field group -- searching
+    "brain-computer interface" with it returned 2000+ records, most of them
+    unrelated trials that just happened to contain "brain" or "interface"
+    somewhere. The AREA[InterventionName]"exact phrase" form matches the
+    literal phrase, scoped strictly to the intervention name field.
+    """
     results = []
     for term in INTERVENTION_TERMS:
-        results.extend(_paginate({"query.intr": term}))
+        results.extend(_paginate({"filter.advanced": f'AREA[InterventionName]"{term}"'}))
     return results
 
 
@@ -127,13 +137,22 @@ def fetch_by_sponsor() -> list[dict]:
 
 
 def fetch_by_condition_and_device() -> list[dict]:
-    """Condition trials, restricted to device-type interventions, to avoid
-    pulling in unrelated drug/biologic trials for the same condition."""
+    """Condition trials, restricted to device-type interventions AND an
+    intervention name that actually mentions a BCI/neural-interface term.
+
+    Earlier version of this function only required `filter.advanced:
+    AREA[InterventionType]DEVICE`, which is far too broad -- e.g. an
+    epilepsy trial testing a vagus nerve stimulator or a routine EEG
+    monitor is a "device trial for epilepsy" but has nothing to do with
+    brain-computer interfaces. That inflated the dataset with thousands
+    of unrelated device trials. We now also require the intervention name
+    to contain one of the BCI-specific terms.
+    """
     results = []
+    intr_keyword_filter = " OR ".join(f'AREA[InterventionName]"{t}"' for t in INTERVENTION_TERMS)
     for condition in CONDITION_TERMS:
-        results.extend(
-            _paginate({"query.cond": condition, "filter.advanced": "AREA[InterventionType]DEVICE"})
-        )
+        advanced = f"AREA[InterventionType]DEVICE AND ({intr_keyword_filter})"
+        results.extend(_paginate({"query.cond": condition, "filter.advanced": advanced}))
     return results
 
 
