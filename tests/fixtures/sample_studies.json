@@ -1,0 +1,90 @@
+[
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT99990001",
+        "briefTitle": "Pilot Study of an Intracortical Brain-Computer Interface for Communication in ALS"
+      },
+      "statusModule": {
+        "overallStatus": "RECRUITING",
+        "startDateStruct": {"date": "2024-03-15", "type": "ACTUAL"}
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {"name": "Example Neurotech Inc.", "class": "INDUSTRY"},
+        "collaborators": [{"name": "Example University Medical Center"}]
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": ["EARLY_PHASE1"]
+      },
+      "conditionsModule": {
+        "conditions": ["Amyotrophic Lateral Sclerosis", "Tetraplegia"]
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {"type": "DEVICE", "name": "Intracortical Brain-Computer Interface"}
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [{"country": "United States"}]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT99990002",
+        "briefTitle": "Vascular Neural Interface for Restoring Digital Device Control"
+      },
+      "statusModule": {
+        "overallStatus": "ACTIVE_NOT_RECRUITING",
+        "startDateStruct": {"date": "2021-09", "type": "ACTUAL"}
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {"name": "Example Vascular BCI Co.", "class": "INDUSTRY"},
+        "collaborators": []
+      },
+      "designModule": {
+        "studyType": "INTERVENTIONAL",
+        "phases": ["PHASE2"]
+      },
+      "conditionsModule": {
+        "conditions": ["Tetraplegia", "Stroke"]
+      },
+      "armsInterventionsModule": {
+        "interventions": [
+          {"type": "DEVICE", "name": "Vascular Neural Interface"}
+        ]
+      },
+      "contactsLocationsModule": {
+        "locations": [{"country": "United States"}, {"country": "Australia"}]
+      }
+    }
+  },
+  {
+    "protocolSection": {
+      "identificationModule": {
+        "nctId": "NCT99990003",
+        "briefTitle": "Duplicate-Style Record With Missing Dates"
+      },
+      "statusModule": {
+        "overallStatus": "COMPLETED"
+      },
+      "sponsorCollaboratorsModule": {
+        "leadSponsor": {"name": "Example Neurotech Inc.", "class": "INDUSTRY"}
+      },
+      "designModule": {
+        "studyType": "OBSERVATIONAL"
+      },
+      "conditionsModule": {
+        "conditions": ["Epilepsy"]
+      },
+      "armsInterventionsModule": {
+        "interventions": []
+      },
+      "contactsLocationsModule": {
+        "locations": []
+      }
+    }
+  }
+]

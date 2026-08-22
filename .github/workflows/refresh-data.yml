@@ -1,0 +1,42 @@
+name: Refresh BCI trial data
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # Every Monday at 09:00 UTC -- keeps the dataset current without
+    # requiring a manual re-run.
+    - cron: "0 9 * * 1"
+  workflow_dispatch: {}
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch live trial data from ClinicalTrials.gov
+        run: python src/fetch_trials.py
+
+      - name: Process into tidy dataset
+        run: python src/process.py
+
+      - name: Run tests
+        run: python -m pytest tests/ -v
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/raw/trials_processed.csv
+          git diff --staged --quiet || git commit -m "Refresh BCI trial dataset [automated]"
+          git push
