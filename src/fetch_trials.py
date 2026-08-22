@@ -40,21 +40,13 @@ import requests
 
 API_BASE = "https://clinicaltrials.gov/api/v2/studies"
 
-FIELDS = [
-    "NCTId",
-    "BriefTitle",
-    "OverallStatus",
-    "Phase",
-    "Condition",
-    "LeadSponsorName",
-    "LeadSponsorClass",
-    "Collaborators",
-    "StartDate",
-    "StudyType",
-    "InterventionName",
-    "InterventionType",
-    "LocationCountry",
-]
+# NOTE: we deliberately do NOT pass a `fields=` restriction to the API.
+# ClinicalTrials.gov's `fields` parameter only accepts a specific set of
+# whitelisted names, several of which (e.g. a sponsor-class field, an
+# intervention-type field) don't exist under the names you'd guess from the
+# JSON schema and cause a 400 Bad Request. Fetching full records is more
+# bandwidth but far more robust -- src/process.py's flatten_study() already
+# parses the full nested protocolSection regardless.
 
 # Device/technology terms used in trial intervention names.
 INTERVENTION_TERMS = [
@@ -97,7 +89,7 @@ REQUEST_DELAY_SECONDS = 0.34  # be polite to the public API
 
 
 def _get(params: dict[str, Any]) -> dict[str, Any]:
-    params = {**params, "format": "json", "fields": ",".join(FIELDS)}
+    params = {**params, "format": "json"}
     resp = requests.get(API_BASE, params=params, timeout=30)
     resp.raise_for_status()
     return resp.json()
