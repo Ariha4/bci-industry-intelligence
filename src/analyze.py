@@ -108,11 +108,36 @@ def sponsor_regulatory_cross_reference(df: pd.DataFrame) -> pd.DataFrame:
         trial_counts["breakthrough_designation"] = False
         return trial_counts
 
-    fda_companies = set(fda["company"].str.lower().str.strip())
-    trial_counts["breakthrough_designation"] = (
-        trial_counts["lead_sponsor"].str.lower().str.strip().isin(fda_companies)
+    fda_companies = list(fda["company"])
+    trial_counts["breakthrough_designation"] = trial_counts["lead_sponsor"].apply(
+        lambda sponsor_name: sponsor_has_designation(sponsor_name, fda_companies)
     )
     return trial_counts
+
+
+def sponsor_matches_company(sponsor_name: str, company_name: str) -> bool:
+    """True when a trial sponsor is the same organization as an FDA-list company.
+
+    Sponsors are registered under legal-entity names ("Neuralink Corp",
+    "Synchron, Inc.", "Synchron Australia Pty Ltd.") while the FDA list uses
+    the short company name ("Neuralink", "Synchron"). An exact string match
+    misses these, so we accept the company name followed by a space or comma.
+    """
+    sponsor_lower = str(sponsor_name).lower().strip()
+    company_lower = str(company_name).lower().strip()
+    if sponsor_lower == company_lower:
+        return True
+    for separator in (" ", ","):
+        if sponsor_lower.startswith(company_lower + separator):
+            return True
+    return False
+
+
+def sponsor_has_designation(sponsor_name: str, fda_companies: list[str]) -> bool:
+    for company_name in fda_companies:
+        if sponsor_matches_company(sponsor_name, company_name):
+            return True
+    return False
 
 
 def whitespace_conditions(df: pd.DataFrame, recent_years: int = 3, max_sponsors: int = 2) -> pd.DataFrame:
