@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T16:16:48+00:00",
+ "generated_at": "2026-10-23T00:56:00+00:00",
  "trial_count": 97,
  "trials": [
   {
@@ -26,57 +26,332 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT05306015",
-   "brief_title": "Application of Mindfulness Meditation Based on Brain Computer Interface in Radiofrequency Ablation",
+   "nct_id": "NCT07374276",
+   "brief_title": "BCI With Virtual Reality for Stroke Rehabilitation: A Crossover Study",
+   "overall_status": "ACTIVE_NOT_RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Stroke"
+   ],
+   "lead_sponsor": "Technical University of Lisbon",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Centro de Medicina de Reabilitação de Alcoitão"
+   ],
+   "interventions": [
+    "Motor Imagery-based Brain-Computer Interface coupled with Virtual Reality (MI-BCI-VR)",
+    "Motor Imagery-based Brain-Computer Interface (MI-BCI)"
+   ],
+   "start_date": "2026-01-05",
+   "start_year": 2026,
+   "countries": [
+    "Portugal"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT02443558",
+   "brief_title": "Brainwave Control of a Wearable Robotic Arm for Rehabilitation and Neurophysiological Study in Cervical Spine Injury",
    "overall_status": "COMPLETED",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Atrial Fibrillation",
-    "Radiofrequency Ablation",
-    "Meditation",
-    "Pain",
-    "Fatigue",
-    "Anxiety",
-    "Depression",
-    "Brain-Computer Interfaces"
+    "Spinal Cord Injuries"
    ],
-   "lead_sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+   "lead_sponsor": "Aristotle University Of Thessaloniki",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Cervical Spine Research Society"
+   ],
+   "interventions": [
+    "Brain-Computer Interface control of robotic arms.",
+    "MERCURY v2.0 robotic arms"
+   ],
+   "start_date": "2016-12-15",
+   "start_year": 2016,
+   "countries": [
+    "Greece"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT04724824",
+   "brief_title": "Validation of a Brain-Computer Interface for Stroke Neurological Upper Limb Rehabilitation",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Stroke, Ischemic",
+    "Stroke"
+   ],
+   "lead_sponsor": "Instituto Nacional de Rehabilitacion",
+   "lead_sponsor_class": "OTHER_GOV",
+   "collaborators": [
+    "National Council of Science and Technology, Mexico",
+    "Hospital General Dr. Manuel Gea González",
+    "El Instituto Nacional de Neurologia y Neurocirugia Manuel Velasco Suarez"
+   ],
+   "interventions": [
+    "Brain-Computer Interface",
+    "Sham Brain-Computer Interface"
+   ],
+   "start_date": "2021-03-16",
+   "start_year": 2021,
+   "countries": [
+    "Mexico"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT07327710",
+   "brief_title": "Non-Invasive Brain-Computer Interface Combined With Transcranial Electrical Stimulation for Peripheral Facial PalsyStimulation in the Treatment of Peripheral Facial Palsy",
+   "overall_status": "ENROLLING_BY_INVITATION",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Peripheral Facial Palsy",
+    "Pulsed Radiofrequency",
+    "Brain-Computer Interface",
+    "Transcranial Direct Current Stimulation"
+   ],
+   "lead_sponsor": "Nanjing Medical University",
    "lead_sponsor_class": "OTHER",
    "collaborators": [],
    "interventions": [
-    "Mindfulness meditation based on brain-computer interface",
-    "Routine care"
+    "Brain-Computer Interface （BCI）",
+    "Pulsed Radiofrequency （PRF）",
+    "Standard Therapy"
    ],
-   "start_date": "2022-04-01",
-   "start_year": 2022,
+   "start_date": "2025-11-30",
+   "start_year": 2025,
    "countries": [
     "China"
    ],
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT07225582",
-   "brief_title": "Development of Optimal Sensory Feedback Strategies to Maximize Function After Tetraplegia",
+   "nct_id": "NCT02772302",
+   "brief_title": "Feasibility of mindBEAGLE in Disorders of Consciousness or Locked-In Syndrome",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Consciousness Disorders",
+    "Locked-In Syndrome"
+   ],
+   "lead_sponsor": "Massachusetts General Hospital",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "mindBEAGLE EEG-based brain-computer interface"
+   ],
+   "start_date": "2016-03-01",
+   "start_year": 2016,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT06160453",
+   "brief_title": "HEROES: Human Extremity Robotic Rehabilitation and Outcome Enhancement for Stroke",
+   "overall_status": "UNKNOWN",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Stroke"
+   ],
+   "lead_sponsor": "Aristotle University Of Thessaloniki",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Brain-Computer Interface control of robotic arms with augmented reality",
+    "Serious game with augmented reality"
+   ],
+   "start_date": "2024-12-01",
+   "start_year": 2024,
+   "countries": [
+    "Greece"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT00746525",
+   "brief_title": "Non-Invasive Brain Signal Training to Induce Motor Control Recovery After Stroke",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Stroke"
+   ],
+   "lead_sponsor": "Louis Stokes VA Medical Center",
+   "lead_sponsor_class": "FED",
+   "collaborators": [
+    "National Institute of Neurological Disorders and Stroke (NINDS)"
+   ],
+   "interventions": [
+    "Surface functional electrical stimulation (FES)",
+    "Motor learning",
+    "Brain computer interface (BCI) training"
+   ],
+   "start_date": "2008-09",
+   "start_year": 2008,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT06179745",
+   "brief_title": "BCI Driving FES and Hand Orthosis for Upper Limb Rehabilitation in Chronic Stroke",
+   "overall_status": "UNKNOWN",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Stroke, Cerebrovascular",
+    "Hemiplegia and Hemiparesis",
+    "Stroke/Brain Attack"
+   ],
+   "lead_sponsor": "University of Essex",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Azienda Sanitaria dell'Alto Adige",
+    "Landeskrankenhaus Hochzirl"
+   ],
+   "interventions": [
+    "EEG-based brain-computer interface",
+    "Sham EEG-based brain-computer interface",
+    "Functional Electrical Stimulation",
+    "Active hand orthosis"
+   ],
+   "start_date": "2022-03-14",
+   "start_year": 2022,
+   "countries": [
+    "Italy"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT06406855",
+   "brief_title": "Brain-Controlled Spinal Stimulation Walking Therapy After Incomplete Spinal Cord Injury (SCI)",
+   "overall_status": "ACTIVE_NOT_RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Spinal Cord Injuries"
+   ],
+   "lead_sponsor": "University of Miami",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "United States Department of Defense"
+   ],
+   "interventions": [
+    "Brain-Computer Interface-Triggered Transcutaneous Spinal Cord Stimulation (BCI-tSCS) System"
+   ],
+   "start_date": "2024-05-07",
+   "start_year": 2024,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT05778448",
+   "brief_title": "BCI for Hemiparetic Upper Extremities in Patients Due to Stroke",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Stroke",
+    "Brain Computer Interface"
+   ],
+   "lead_sponsor": "The Hong Kong Polytechnic University",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Brain Computer Interface/ Functional Electrical Stimulation/ Virtual Reality"
+   ],
+   "start_date": "2021-08-11",
+   "start_year": 2021,
+   "countries": [
+    "Hong Kong"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT06409754",
+   "brief_title": "BCI-FES for Upper Limb Rehabilitation in Chronic Stroke",
    "overall_status": "RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Spinal Cord Injury Cervical",
-    "Spinal Cord Injuries (Complete and Incomplete)"
+    "Stroke",
+    "Upper Extremity Paresis",
+    "Neuronal Plasticity"
    ],
-   "lead_sponsor": "Case Western Reserve University",
+   "lead_sponsor": "Instituto Nacional de Rehabilitacion",
+   "lead_sponsor_class": "OTHER_GOV",
+   "collaborators": [],
+   "interventions": [
+    "Functional Electrical Stimulation Therapy coupled to a P-300 based Brain-Computer Interface",
+    "Conventional Physical Therapy"
+   ],
+   "start_date": "2024-08-06",
+   "start_year": 2024,
+   "countries": [
+    "Mexico"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT02228187",
+   "brief_title": "Brain-Computer Interface System for Training Memory and Attention in Elderly",
+   "overall_status": "COMPLETED",
+   "phase": "PHASE2",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Alzheimer's Disease",
+    "Mild Cognitive Impairment",
+    "Age-Related Cognitive Decline",
+    "Dementia"
+   ],
+   "lead_sponsor": "Duke-NUS Graduate Medical School",
    "lead_sponsor_class": "OTHER",
    "collaborators": [
-    "University Hospitals Cleveland Medical Center",
-    "Cleveland Clinic Lerner Research Institute",
-    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)"
+    "Agency for Science, Technology and Research",
+    "National University of Singapore",
+    "Singapore Clinical Research Institute",
+    "Singapore General Hospital",
+    "Tan Tock Seng Hospital"
    ],
    "interventions": [
-    "Brain Computer Interface (BCI) - Functional Electrical Stimulation (FES) system"
+    "Brain-Computer Interface"
    ],
-   "start_date": "2026-01-13",
-   "start_year": 2026,
+   "start_date": "2015-07",
+   "start_year": 2015,
+   "countries": [
+    "Singapore"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT01123200",
+   "brief_title": "An In-home Study of Brain Computer Interfaces",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Amyotrophic Lateral Sclerosis"
+   ],
+   "lead_sponsor": "University of Michigan",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Brain Computer Interface for Wheelchair Tilt Control"
+   ],
+   "start_date": "2010-01",
+   "start_year": 2010,
    "countries": [
     "United States"
    ],
@@ -101,6 +376,128 @@
    "start_year": 2011,
    "countries": [
     "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT04367623",
+   "brief_title": "Motor Conditioning to Enhance the Effect of Physical Therapy",
+   "overall_status": "TERMINATED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Spinal Cord Injuries"
+   ],
+   "lead_sponsor": "NHS Greater Glasgow and Clyde",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "University of Glasgow"
+   ],
+   "interventions": [
+    "Brain computer interface based therapy"
+   ],
+   "start_date": "2020-12-09",
+   "start_year": 2020,
+   "countries": [
+    "United Kingdom"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT02169375",
+   "brief_title": "Sensorimotor Based Brain Computer Interface",
+   "overall_status": "TERMINATED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Healthy Volunteers"
+   ],
+   "lead_sponsor": "University of Michigan",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)"
+   ],
+   "interventions": [
+    "Brain computer Interface Mu (SMR) rhythm"
+   ],
+   "start_date": "2010-11",
+   "start_year": 2010,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT07333339",
+   "brief_title": "A Brain-Computer Interface-Based Attention Training Program Compared With Methylphenidate and Citicoline",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "OBSERVATIONAL",
+   "conditions": [
+    "Attention Deficit Hyperactivity Disorder (ADHD)",
+    "Brain Computer Interface"
+   ],
+   "lead_sponsor": "Uludag University",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Brain-Computer Interface-Based Attention Training"
+   ],
+   "start_date": "2025-02-01",
+   "start_year": 2025,
+   "countries": [
+    "Turkey (Türkiye)"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT04071587",
+   "brief_title": "Brain Computer Interface Training After Stroke",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Stroke"
+   ],
+   "lead_sponsor": "University of Aarhus",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Hammel Neurorehabilitation Centre and University Research Clinic",
+    "Sygekassernes Helsefond"
+   ],
+   "interventions": [
+    "Brain Computer Interface training",
+    "Control"
+   ],
+   "start_date": "2019-08-26",
+   "start_year": 2019,
+   "countries": [
+    "Denmark"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT04612426",
+   "brief_title": "the Effectiveness of Brain-computer Interface-pedaling Training System on the Rehabilitation of Stroke",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Rehabilitation",
+    "Stroke",
+    "Brain-computer Interface"
+   ],
+   "lead_sponsor": "First Affiliated Hospital Xi'an Jiaotong University",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Brain-computer Interface-Pedaling Training System",
+    "Traditional Pedaling Training System"
+   ],
+   "start_date": "2020-11-01",
+   "start_year": 2020,
+   "countries": [
+    "China"
    ],
    "breakthrough_designations": []
   },
@@ -134,338 +531,55 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT01123200",
-   "brief_title": "An In-home Study of Brain Computer Interfaces",
+   "nct_id": "NCT02325947",
+   "brief_title": "Efficacy of Hand Exoskeleton Controlled by BCI in Post Stroke Patients",
    "overall_status": "COMPLETED",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Amyotrophic Lateral Sclerosis"
+    "Poststroke/CVA Paresis"
    ],
-   "lead_sponsor": "University of Michigan",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain Computer Interface for Wheelchair Tilt Control"
-   ],
-   "start_date": "2010-01",
-   "start_year": 2010,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT02169375",
-   "brief_title": "Sensorimotor Based Brain Computer Interface",
-   "overall_status": "TERMINATED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Healthy Volunteers"
-   ],
-   "lead_sponsor": "University of Michigan",
+   "lead_sponsor": "Russian Academy of Medical Sciences",
    "lead_sponsor_class": "OTHER",
    "collaborators": [
-    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)"
+    "Pirogov Russian National Research Medical University"
    ],
    "interventions": [
-    "Brain computer Interface Mu (SMR) rhythm"
+    "hand exoskeleton, brain-computer interface (BCI),",
+    "hand exoskeleton, sham BCI"
    ],
-   "start_date": "2010-11",
-   "start_year": 2010,
+   "start_date": "2015-01",
+   "start_year": 2015,
    "countries": [
-    "United States"
+    "Russia"
    ],
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT02443558",
-   "brief_title": "Brainwave Control of a Wearable Robotic Arm for Rehabilitation and Neurophysiological Study in Cervical Spine Injury",
+   "nct_id": "NCT03318549",
+   "brief_title": "BCI and Evaluation of Visual and Task Performance in Subjects With Eye Diseases",
    "overall_status": "COMPLETED",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Spinal Cord Injuries"
+    "Glaucoma",
+    "Macular Degeneration",
+    "Glaucoma Suspect",
+    "Optic Neuropathy",
+    "Retinal Degeneration",
+    "Visual Pathway Disorder"
    ],
-   "lead_sponsor": "Aristotle University Of Thessaloniki",
+   "lead_sponsor": "University of Miami",
    "lead_sponsor_class": "OTHER",
    "collaborators": [
-    "Cervical Spine Research Society"
+    "National Eye Institute (NEI)"
    ],
    "interventions": [
-    "Brain-Computer Interface control of robotic arms.",
-    "MERCURY v2.0 robotic arms"
+    "Visual Performance tests",
+    "Brain-computer interface"
    ],
-   "start_date": "2016-12-15",
-   "start_year": 2016,
-   "countries": [
-    "Greece"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT05778448",
-   "brief_title": "BCI for Hemiparetic Upper Extremities in Patients Due to Stroke",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Stroke",
-    "Brain Computer Interface"
-   ],
-   "lead_sponsor": "The Hong Kong Polytechnic University",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain Computer Interface/ Functional Electrical Stimulation/ Virtual Reality"
-   ],
-   "start_date": "2021-08-11",
-   "start_year": 2021,
-   "countries": [
-    "Hong Kong"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT04876170",
-   "brief_title": "Reward Circuit Modulation Via fMRI-informed-EEG-based Musical Neurofeedback",
-   "overall_status": "UNKNOWN",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Healthy"
-   ],
-   "lead_sponsor": "Tel-Aviv Sourasky Medical Center",
-   "lead_sponsor_class": "OTHER_GOV",
-   "collaborators": [
-    "Tel Aviv University",
-    "McGill University"
-   ],
-   "interventions": [
-    "Brain-computer-interface: EEG-based musical Neurofeedback task"
-   ],
-   "start_date": "2020-07-10",
-   "start_year": 2020,
-   "countries": [
-    "Israel"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT02772302",
-   "brief_title": "Feasibility of mindBEAGLE in Disorders of Consciousness or Locked-In Syndrome",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Consciousness Disorders",
-    "Locked-In Syndrome"
-   ],
-   "lead_sponsor": "Massachusetts General Hospital",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "mindBEAGLE EEG-based brain-computer interface"
-   ],
-   "start_date": "2016-03-01",
-   "start_year": 2016,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT01119001",
-   "brief_title": "A P300 Brain Computer Interface Keyboard to Control Assistive Technology For Use by People With Amyotrophic Lateral Sclerosis",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Amyotrophic Lateral Sclerosis"
-   ],
-   "lead_sponsor": "University of Michigan",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "U.S. Department of Education"
-   ],
-   "interventions": [
-    "P300 Brain Computer Interface Keyboard"
-   ],
-   "start_date": "2010-02",
-   "start_year": 2010,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT04815486",
-   "brief_title": "Transcranial Magnetic Stimulation and Mental Representation Techniques for the Treatment of Stroke Patients",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Stroke"
-   ],
-   "lead_sponsor": "Universidad Francisco de Vitoria",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Hospital Beata María Ana"
-   ],
-   "interventions": [
-    "Repetitive Transcranial Magnetic Stimulation (rTMS)",
-    "Motor Imagery (MI) through a Brain-Computer Interface (BCI) training platform in Virtual Reality (VR) with NeuRow"
-   ],
-   "start_date": "2021-05-01",
-   "start_year": 2021,
-   "countries": [
-    "Spain"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT06160453",
-   "brief_title": "HEROES: Human Extremity Robotic Rehabilitation and Outcome Enhancement for Stroke",
-   "overall_status": "UNKNOWN",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Stroke"
-   ],
-   "lead_sponsor": "Aristotle University Of Thessaloniki",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain-Computer Interface control of robotic arms with augmented reality",
-    "Serious game with augmented reality"
-   ],
-   "start_date": "2024-12-01",
-   "start_year": 2024,
-   "countries": [
-    "Greece"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT01117727",
-   "brief_title": "Sensorimotor Rhythm Brain-Computer Interface Switch to Operate Assistive Technology",
-   "overall_status": "TERMINATED",
-   "phase": "PHASE1,PHASE2",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Healthy"
-   ],
-   "lead_sponsor": "University of Michigan",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)"
-   ],
-   "interventions": [
-    "Brain Computer Interface Switch"
-   ],
-   "start_date": "2011-01",
-   "start_year": 2011,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT07374276",
-   "brief_title": "BCI With Virtual Reality for Stroke Rehabilitation: A Crossover Study",
-   "overall_status": "ACTIVE_NOT_RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Stroke"
-   ],
-   "lead_sponsor": "Technical University of Lisbon",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Centro de Medicina de Reabilitação de Alcoitão"
-   ],
-   "interventions": [
-    "Motor Imagery-based Brain-Computer Interface coupled with Virtual Reality (MI-BCI-VR)",
-    "Motor Imagery-based Brain-Computer Interface (MI-BCI)"
-   ],
-   "start_date": "2026-01-05",
-   "start_year": 2026,
-   "countries": [
-    "Portugal"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT06409754",
-   "brief_title": "BCI-FES for Upper Limb Rehabilitation in Chronic Stroke",
-   "overall_status": "RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Stroke",
-    "Upper Extremity Paresis",
-    "Neuronal Plasticity"
-   ],
-   "lead_sponsor": "Instituto Nacional de Rehabilitacion",
-   "lead_sponsor_class": "OTHER_GOV",
-   "collaborators": [],
-   "interventions": [
-    "Functional Electrical Stimulation Therapy coupled to a P-300 based Brain-Computer Interface",
-    "Conventional Physical Therapy"
-   ],
-   "start_date": "2024-08-06",
-   "start_year": 2024,
-   "countries": [
-    "Mexico"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT07472556",
-   "brief_title": "Using Motor Imagery-based Brain-computer Interface With Multiple Sclerosis Patients.",
-   "overall_status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Multiple Sclerosis"
-   ],
-   "lead_sponsor": "Pasquale Arpaia",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain Computer Interface"
-   ],
-   "start_date": "2026-07-01",
-   "start_year": 2026,
-   "countries": [
-    "Italy"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT02791425",
-   "brief_title": "Brain Computer Interface for Communication in Ventilated Patients",
-   "overall_status": "TERMINATED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Mechanical Ventilation",
-    "Nonverbal Communication",
-    "Intratracheal Intubation",
-    "Critical Illness"
-   ],
-   "lead_sponsor": "University of Michigan",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Michigan Institute for Clinical and Health Research (MICHR)"
-   ],
-   "interventions": [
-    "Brain Computer Interface (BCI) device",
-    "Communication picture board"
-   ],
-   "start_date": "2017-03-01",
-   "start_year": 2017,
+   "start_date": "2018-10-29",
+   "start_year": 2018,
    "countries": [
     "United States"
    ],
@@ -502,102 +616,6 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT02325947",
-   "brief_title": "Efficacy of Hand Exoskeleton Controlled by BCI in Post Stroke Patients",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Poststroke/CVA Paresis"
-   ],
-   "lead_sponsor": "Russian Academy of Medical Sciences",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Pirogov Russian National Research Medical University"
-   ],
-   "interventions": [
-    "hand exoskeleton, brain-computer interface (BCI),",
-    "hand exoskeleton, sham BCI"
-   ],
-   "start_date": "2015-01",
-   "start_year": 2015,
-   "countries": [
-    "Russia"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT06690931",
-   "brief_title": "Neurofeedback Rehabilitation With FES and VR for PD",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Parkinson Disease"
-   ],
-   "lead_sponsor": "g.tec medical engineering GmbH",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [],
-   "interventions": [
-    "Brain-Computer Interface with FES and VR",
-    "Motor imagery with Functional Electrical Stimulation and Virtual Reality feedback"
-   ],
-   "start_date": "2024-12-09",
-   "start_year": 2024,
-   "countries": [
-    "Austria"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT02550522",
-   "brief_title": "Brain Computer Interface: Neuroprosthetic Control of a Motorized Exoskeleton",
-   "overall_status": "RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Traumatic Tetraplegia with Cervical Cord Injury"
-   ],
-   "lead_sponsor": "University Hospital, Grenoble",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain-computer interface (BCI) platform including two implanted remotely powered ElectroCorticoGraph (ECoG) recording devices and an exoskeleton"
-   ],
-   "start_date": "2015-09",
-   "start_year": 2015,
-   "countries": [
-    "France"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT04071587",
-   "brief_title": "Brain Computer Interface Training After Stroke",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Stroke"
-   ],
-   "lead_sponsor": "University of Aarhus",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Hammel Neurorehabilitation Centre and University Research Clinic",
-    "Sygekassernes Helsefond"
-   ],
-   "interventions": [
-    "Brain Computer Interface training",
-    "Control"
-   ],
-   "start_date": "2019-08-26",
-   "start_year": 2019,
-   "countries": [
-    "Denmark"
-   ],
-   "breakthrough_designations": []
-  },
-  {
    "nct_id": "NCT02323074",
    "brief_title": "Brain Training System Using Electroencephalography (EEG) for Neurorehabilitation of Hand Function After Stroke",
    "overall_status": "UNKNOWN",
@@ -616,132 +634,6 @@
    "start_year": 2014,
    "countries": [
     "Hong Kong"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT02284022",
-   "brief_title": "Clinical Validation Protocol for BCI for the Communication of Patients Suffering From Neuromuscular Disorders.",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "OBSERVATIONAL",
-   "conditions": [
-    "Communication",
-    "Neuromuscular Disease"
-   ],
-   "lead_sponsor": "Centre d'Investigation Clinique et Technologique 805",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Association Française contre les Myopathies (AFM), Paris"
-   ],
-   "interventions": [
-    "Brain computer interface"
-   ],
-   "start_date": "2014-10",
-   "start_year": 2014,
-   "countries": [
-    "France"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT07133347",
-   "brief_title": "Creating an Engaging BCI/FES Therapy for Children With Perinatal Stroke Using Social Media",
-   "overall_status": "COMPLETED",
-   "phase": "PHASE1",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Perinatal Stroke",
-    "Hemiparetic Cerebral Palsy"
-   ],
-   "lead_sponsor": "University of Calgary",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain computer interface controlled functional electrical stimulation therapy integrated with social media"
-   ],
-   "start_date": "2024-11-25",
-   "start_year": 2024,
-   "countries": [
-    "Canada"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT07269353",
-   "brief_title": "Using Neurotechology to Help Children With Physical Disability Due to Cerebral Palsy",
-   "overall_status": "RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Hemiparetic Cerebral Palsy"
-   ],
-   "lead_sponsor": "University of Alberta",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Alberta Health services"
-   ],
-   "interventions": [
-    "Brain Computer Interface - Functional Electrical Stimulations"
-   ],
-   "start_date": "2026-02-05",
-   "start_year": 2026,
-   "countries": [
-    "Canada"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT06818877",
-   "brief_title": "Training Upper Limbs of Neurodiverse Children by Connecting Brain Activities to a Virtual Reality Based Game",
-   "overall_status": "RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Healthy Children",
-    "CP (Cerebral Palsy)",
-    "CP",
-    "Cerebral Palsy"
-   ],
-   "lead_sponsor": "University of Nebraska",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
-    "National Institute of General Medical Sciences (NIGMS)"
-   ],
-   "interventions": [
-    "Brain-Computer Interface (BCI)-HABIT-VR",
-    "Hand and Bimanual Intensive Therapy Virtual Reality (HABIT-VR)"
-   ],
-   "start_date": "2025-07-30",
-   "start_year": 2025,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT05343130",
-   "brief_title": "Efficacy of a Brain-Computer Interface Controlled Functional Electrical Stimulation Therapy for Spinal Cord Injury Neurorehabilitation",
-   "overall_status": "RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Cervical Spinal Cord Injury"
-   ],
-   "lead_sponsor": "Instituto Nacional de Rehabilitacion",
-   "lead_sponsor_class": "OTHER_GOV",
-   "collaborators": [
-    "Instituto Tecnologico y de Estudios Superiores de Monterey"
-   ],
-   "interventions": [
-    "Brain-Computer Interface",
-    "Sham Brain-Computer Interface"
-   ],
-   "start_date": "2022-08-01",
-   "start_year": 2022,
-   "countries": [
-    "Mexico"
    ],
    "breakthrough_designations": []
   },
@@ -774,144 +666,26 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT07357428",
-   "brief_title": "Connect-One: Early Feasibility Study of Connexus® Brain-Computer Interface (BCI)",
-   "overall_status": "RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Amyotrophic Lateral Sclerosis",
-    "Neuromuscular Disease",
-    "Stroke",
-    "Tetraplegia/Tetraparesis",
-    "Cervical Spinal Cord Injury",
-    "Dysarthria"
-   ],
-   "lead_sponsor": "Paradromics",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [
-    "University of Michigan",
-    "University of California, Davis",
-    "Massachusetts General Hospital"
-   ],
-   "interventions": [
-    "Connexus Brain-Computer Interface"
-   ],
-   "start_date": "2026-03-31",
-   "start_year": 2026,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": [
-    {
-     "company": "Paradromics",
-     "device": "Connexus Direct Data Interface",
-     "designation_year": 2023,
-     "source_url": "https://www.fiercebiotech.com/medtech/paradromics-reels-33m-fda-breakthrough-tag-mind-reading-brain-implant"
-    }
-   ]
-  },
-  {
-   "nct_id": "NCT07686822",
-   "brief_title": "Spinal Cord Stimulation Combined With Motor Imagery Brain-Computer Interface for Chronic Post-Stroke Upper Limb Motor Dysfunction",
-   "overall_status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Chronic Stroke"
-   ],
-   "lead_sponsor": "Zhejiang Provincial People's Hospital",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Spinal Cord Stimulation",
-    "Motor Imagery Brain-Computer Interface Rehabilitation Training"
-   ],
-   "start_date": "2026-09",
-   "start_year": 2026,
-   "countries": [
-    "China"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT04626713",
-   "brief_title": "An Online Home-based Intervention for Anxiety Regulation",
-   "overall_status": "UNKNOWN",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Anxiety"
-   ],
-   "lead_sponsor": "Duke-NUS Graduate Medical School",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Nanyang Technological University"
-   ],
-   "interventions": [
-    "Brain-Computer Interface"
-   ],
-   "start_date": "2021-01-05",
-   "start_year": 2021,
-   "countries": [
-    "Singapore"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT07214974",
-   "brief_title": "Mild Cognitive Impairment Community Screening and Early Intervention Via Stem Cell Therapy and Wearable Brain Computer Interface Device.",
-   "overall_status": "NOT_YET_RECRUITING",
-   "phase": "EARLY_PHASE1",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Mild Cognitive Impairment (MCI)",
-    "Early Stages of Cognitive Decline",
-    "Alzheimer's Disease Dementia",
-    "Alzheimer's Disease Diagnosis",
-    "Alzheimer's Disease and Related Dementias",
-    "Parkinson's Disease",
-    "Parkinson's Disease (PD)",
-    "Parkinson's Disease With Wearing-off Motor Fluctuations",
-    "Dementia (Diagnosis)",
-    "Dementia MCI (Mild Cognitive Impairment)"
-   ],
-   "lead_sponsor": "Noah Tech, Corp.",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [],
-   "interventions": [
-    "Structured wellness care",
-    "Wearable brain-computer interface devices",
-    "Stem Cell Therapy - Experimental",
-    "Control - Placebo Comparator"
-   ],
-   "start_date": "2026-09-01",
-   "start_year": 2026,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT04387474",
-   "brief_title": "The Effectiveness of Rehabilitation Training Based on Brain-computer Interface Technology to Improve the Upper Limb Motor Function of Ischemic Stroke.",
+   "nct_id": "NCT01119001",
+   "brief_title": "A P300 Brain Computer Interface Keyboard to Control Assistive Technology For Use by People With Amyotrophic Lateral Sclerosis",
    "overall_status": "COMPLETED",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Hemiplegia Following Ischemic Stroke"
+    "Amyotrophic Lateral Sclerosis"
    ],
-   "lead_sponsor": "Beijing Tiantan Hospital",
+   "lead_sponsor": "University of Michigan",
    "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain-computer interface",
-    "Traditional rehabilitation"
+   "collaborators": [
+    "U.S. Department of Education"
    ],
-   "start_date": "2020-05-10",
-   "start_year": 2020,
+   "interventions": [
+    "P300 Brain Computer Interface Keyboard"
+   ],
+   "start_date": "2010-02",
+   "start_year": 2010,
    "countries": [
-    "China"
+    "United States"
    ],
    "breakthrough_designations": []
   },
@@ -941,78 +715,57 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT06406855",
-   "brief_title": "Brain-Controlled Spinal Stimulation Walking Therapy After Incomplete Spinal Cord Injury (SCI)",
-   "overall_status": "ACTIVE_NOT_RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Spinal Cord Injuries"
-   ],
-   "lead_sponsor": "University of Miami",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "United States Department of Defense"
-   ],
-   "interventions": [
-    "Brain-Computer Interface-Triggered Transcutaneous Spinal Cord Stimulation (BCI-tSCS) System"
-   ],
-   "start_date": "2024-05-07",
-   "start_year": 2024,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT07327710",
-   "brief_title": "Non-Invasive Brain-Computer Interface Combined With Transcranial Electrical Stimulation for Peripheral Facial PalsyStimulation in the Treatment of Peripheral Facial Palsy",
-   "overall_status": "ENROLLING_BY_INVITATION",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Peripheral Facial Palsy",
-    "Pulsed Radiofrequency",
-    "Brain-Computer Interface",
-    "Transcranial Direct Current Stimulation"
-   ],
-   "lead_sponsor": "Nanjing Medical University",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain-Computer Interface （BCI）",
-    "Pulsed Radiofrequency （PRF）",
-    "Standard Therapy"
-   ],
-   "start_date": "2025-11-30",
-   "start_year": 2025,
-   "countries": [
-    "China"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT01707498",
-   "brief_title": "Robust Intelligent Keyboard for Quadraplegic Patients",
+   "nct_id": "NCT04876170",
+   "brief_title": "Reward Circuit Modulation Via fMRI-informed-EEG-based Musical Neurofeedback",
    "overall_status": "UNKNOWN",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Quadraplegia"
+    "Healthy"
    ],
-   "lead_sponsor": "Centre d'Investigation Clinique et Technologique 805",
-   "lead_sponsor_class": "OTHER",
+   "lead_sponsor": "Tel-Aviv Sourasky Medical Center",
+   "lead_sponsor_class": "OTHER_GOV",
    "collaborators": [
-    "University of Versailles"
+    "Tel Aviv University",
+    "McGill University"
    ],
    "interventions": [
-    "Scanning device",
-    "RoBIK Brain-Computer Interface"
+    "Brain-computer-interface: EEG-based musical Neurofeedback task"
    ],
-   "start_date": "2013-02",
-   "start_year": 2013,
+   "start_date": "2020-07-10",
+   "start_year": 2020,
    "countries": [
-    "France"
+    "Israel"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT05306015",
+   "brief_title": "Application of Mindfulness Meditation Based on Brain Computer Interface in Radiofrequency Ablation",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Atrial Fibrillation",
+    "Radiofrequency Ablation",
+    "Meditation",
+    "Pain",
+    "Fatigue",
+    "Anxiety",
+    "Depression",
+    "Brain-Computer Interfaces"
+   ],
+   "lead_sponsor": "The First Affiliated Hospital with Nanjing Medical University",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Mindfulness meditation based on brain-computer interface",
+    "Routine care"
+   ],
+   "start_date": "2022-04-01",
+   "start_year": 2022,
+   "countries": [
+    "China"
    ],
    "breakthrough_designations": []
   },
@@ -1042,78 +795,49 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT00860951",
-   "brief_title": "P300 Brain Computer Interface Keyboard to Operate Assistive Technology",
-   "overall_status": "COMPLETED",
-   "phase": "PHASE1,PHASE2",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Healthy",
-    "Amyotrophic Lateral Sclerosis",
-    "Neuromuscular Disease",
-    "Spinal Cord Injury",
-    "Cerebral Palsy"
-   ],
-   "lead_sponsor": "University of Michigan",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
-    "U.S. Department of Education"
-   ],
-   "interventions": [
-    "Brain Computer Interface Keyboard"
-   ],
-   "start_date": "2008-09",
-   "start_year": 2008,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT05465486",
-   "brief_title": "NeuroSuitUp: Neurorehabilitation Through Synergistic Man-machine Interfaces",
-   "overall_status": "UNKNOWN",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Spinal Cord Injuries"
-   ],
-   "lead_sponsor": "Aristotle University Of Thessaloniki",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain-Computer Interface control of robotic arms with augmented reality",
-    "Serious game with augmented reality"
-   ],
-   "start_date": "2025-02-01",
-   "start_year": 2025,
-   "countries": [
-    "Greece"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT00746525",
-   "brief_title": "Non-Invasive Brain Signal Training to Induce Motor Control Recovery After Stroke",
-   "overall_status": "COMPLETED",
+   "nct_id": "NCT06503484",
+   "brief_title": "fNIRS-BCI Neurofeedback in Stroke Rehabilitation",
+   "overall_status": "RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
     "Stroke"
    ],
-   "lead_sponsor": "Louis Stokes VA Medical Center",
-   "lead_sponsor_class": "FED",
+   "lead_sponsor": "The Hong Kong Polytechnic University",
+   "lead_sponsor_class": "OTHER",
    "collaborators": [
-    "National Institute of Neurological Disorders and Stroke (NINDS)"
+    "RWTH Aachen University"
    ],
    "interventions": [
-    "Surface functional electrical stimulation (FES)",
-    "Motor learning",
-    "Brain computer interface (BCI) training"
+    "Brain-computer interface",
+    "Sham brain-computer interface"
    ],
-   "start_date": "2008-09",
-   "start_year": 2008,
+   "start_date": "2024-12-12",
+   "start_year": 2024,
+   "countries": [
+    "Hong Kong"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT01117727",
+   "brief_title": "Sensorimotor Rhythm Brain-Computer Interface Switch to Operate Assistive Technology",
+   "overall_status": "TERMINATED",
+   "phase": "PHASE1,PHASE2",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Healthy"
+   ],
+   "lead_sponsor": "University of Michigan",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)"
+   ],
+   "interventions": [
+    "Brain Computer Interface Switch"
+   ],
+   "start_date": "2011-01",
+   "start_year": 2011,
    "countries": [
     "United States"
    ],
@@ -1174,6 +898,51 @@
    "breakthrough_designations": []
   },
   {
+   "nct_id": "NCT07133347",
+   "brief_title": "Creating an Engaging BCI/FES Therapy for Children With Perinatal Stroke Using Social Media",
+   "overall_status": "COMPLETED",
+   "phase": "PHASE1",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Perinatal Stroke",
+    "Hemiparetic Cerebral Palsy"
+   ],
+   "lead_sponsor": "University of Calgary",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Brain computer interface controlled functional electrical stimulation therapy integrated with social media"
+   ],
+   "start_date": "2024-11-25",
+   "start_year": 2024,
+   "countries": [
+    "Canada"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT07472556",
+   "brief_title": "Using Motor Imagery-based Brain-computer Interface With Multiple Sclerosis Patients.",
+   "overall_status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Multiple Sclerosis"
+   ],
+   "lead_sponsor": "Pasquale Arpaia",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Brain Computer Interface"
+   ],
+   "start_date": "2026-07-01",
+   "start_year": 2026,
+   "countries": [
+    "Italy"
+   ],
+   "breakthrough_designations": []
+  },
+  {
    "nct_id": "NCT07828496",
    "brief_title": "Cognitive Rehabilitation Using Neurofeedback With Brain-computer Interface",
    "overall_status": "RECRUITING",
@@ -1197,89 +966,320 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT03318549",
-   "brief_title": "BCI and Evaluation of Visual and Task Performance in Subjects With Eye Diseases",
+   "nct_id": "NCT04387474",
+   "brief_title": "The Effectiveness of Rehabilitation Training Based on Brain-computer Interface Technology to Improve the Upper Limb Motor Function of Ischemic Stroke.",
    "overall_status": "COMPLETED",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Glaucoma",
-    "Macular Degeneration",
-    "Glaucoma Suspect",
-    "Optic Neuropathy",
-    "Retinal Degeneration",
-    "Visual Pathway Disorder"
+    "Hemiplegia Following Ischemic Stroke"
    ],
-   "lead_sponsor": "University of Miami",
+   "lead_sponsor": "Beijing Tiantan Hospital",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Brain-computer interface",
+    "Traditional rehabilitation"
+   ],
+   "start_date": "2020-05-10",
+   "start_year": 2020,
+   "countries": [
+    "China"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT06818877",
+   "brief_title": "Training Upper Limbs of Neurodiverse Children by Connecting Brain Activities to a Virtual Reality Based Game",
+   "overall_status": "RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Healthy Children",
+    "CP (Cerebral Palsy)",
+    "CP",
+    "Cerebral Palsy"
+   ],
+   "lead_sponsor": "University of Nebraska",
    "lead_sponsor_class": "OTHER",
    "collaborators": [
-    "National Eye Institute (NEI)"
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+    "National Institute of General Medical Sciences (NIGMS)"
    ],
    "interventions": [
-    "Visual Performance tests",
-    "Brain-computer interface"
+    "Brain-Computer Interface (BCI)-HABIT-VR",
+    "Hand and Bimanual Intensive Therapy Virtual Reality (HABIT-VR)"
    ],
-   "start_date": "2018-10-29",
-   "start_year": 2018,
+   "start_date": "2025-07-30",
+   "start_year": 2025,
    "countries": [
     "United States"
    ],
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT04724824",
-   "brief_title": "Validation of a Brain-Computer Interface for Stroke Neurological Upper Limb Rehabilitation",
-   "overall_status": "COMPLETED",
+   "nct_id": "NCT04421365",
+   "brief_title": "Brain-Computer Interfaces in Laryngeal Dystonia",
+   "overall_status": "RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Stroke, Ischemic",
-    "Stroke"
+    "Laryngeal Dystonia"
    ],
-   "lead_sponsor": "Instituto Nacional de Rehabilitacion",
-   "lead_sponsor_class": "OTHER_GOV",
-   "collaborators": [
-    "National Council of Science and Technology, Mexico",
-    "Hospital General Dr. Manuel Gea González",
-    "El Instituto Nacional de Neurologia y Neurocirugia Manuel Velasco Suarez"
-   ],
+   "lead_sponsor": "Kristina Simonyan",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
    "interventions": [
-    "Brain-Computer Interface",
-    "Sham Brain-Computer Interface"
+    "neurofeedback brain-computer interface (BCI)"
    ],
-   "start_date": "2021-03-16",
-   "start_year": 2021,
+   "start_date": "2022-04-18",
+   "start_year": 2022,
    "countries": [
-    "Mexico"
+    "United States"
    ],
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT02228187",
-   "brief_title": "Brain-Computer Interface System for Training Memory and Attention in Elderly",
-   "overall_status": "COMPLETED",
-   "phase": "PHASE2",
+   "nct_id": "NCT07686822",
+   "brief_title": "Spinal Cord Stimulation Combined With Motor Imagery Brain-Computer Interface for Chronic Post-Stroke Upper Limb Motor Dysfunction",
+   "overall_status": "NOT_YET_RECRUITING",
+   "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Alzheimer's Disease",
-    "Mild Cognitive Impairment",
-    "Age-Related Cognitive Decline",
-    "Dementia"
+    "Chronic Stroke"
+   ],
+   "lead_sponsor": "Zhejiang Provincial People's Hospital",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Spinal Cord Stimulation",
+    "Motor Imagery Brain-Computer Interface Rehabilitation Training"
+   ],
+   "start_date": "2026-09",
+   "start_year": 2026,
+   "countries": [
+    "China"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT07357428",
+   "brief_title": "Connect-One: Early Feasibility Study of Connexus® Brain-Computer Interface (BCI)",
+   "overall_status": "RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Amyotrophic Lateral Sclerosis",
+    "Neuromuscular Disease",
+    "Stroke",
+    "Tetraplegia/Tetraparesis",
+    "Cervical Spinal Cord Injury",
+    "Dysarthria"
+   ],
+   "lead_sponsor": "Paradromics",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [
+    "University of Michigan",
+    "University of California, Davis",
+    "Massachusetts General Hospital"
+   ],
+   "interventions": [
+    "Connexus Brain-Computer Interface"
+   ],
+   "start_date": "2026-03-31",
+   "start_year": 2026,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": [
+    {
+     "company": "Paradromics",
+     "device": "Connexus Direct Data Interface",
+     "designation_year": 2023,
+     "source_url": "https://www.fiercebiotech.com/medtech/paradromics-reels-33m-fda-breakthrough-tag-mind-reading-brain-implant"
+    }
+   ]
+  },
+  {
+   "nct_id": "NCT07269353",
+   "brief_title": "Using Neurotechology to Help Children With Physical Disability Due to Cerebral Palsy",
+   "overall_status": "RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Hemiparetic Cerebral Palsy"
+   ],
+   "lead_sponsor": "University of Alberta",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Alberta Health services"
+   ],
+   "interventions": [
+    "Brain Computer Interface - Functional Electrical Stimulations"
+   ],
+   "start_date": "2026-02-05",
+   "start_year": 2026,
+   "countries": [
+    "Canada"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT07225582",
+   "brief_title": "Development of Optimal Sensory Feedback Strategies to Maximize Function After Tetraplegia",
+   "overall_status": "RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Spinal Cord Injury Cervical",
+    "Spinal Cord Injuries (Complete and Incomplete)"
+   ],
+   "lead_sponsor": "Case Western Reserve University",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "University Hospitals Cleveland Medical Center",
+    "Cleveland Clinic Lerner Research Institute",
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)"
+   ],
+   "interventions": [
+    "Brain Computer Interface (BCI) - Functional Electrical Stimulation (FES) system"
+   ],
+   "start_date": "2026-01-13",
+   "start_year": 2026,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT07214974",
+   "brief_title": "Mild Cognitive Impairment Community Screening and Early Intervention Via Stem Cell Therapy and Wearable Brain Computer Interface Device.",
+   "overall_status": "NOT_YET_RECRUITING",
+   "phase": "EARLY_PHASE1",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Mild Cognitive Impairment (MCI)",
+    "Early Stages of Cognitive Decline",
+    "Alzheimer's Disease Dementia",
+    "Alzheimer's Disease Diagnosis",
+    "Alzheimer's Disease and Related Dementias",
+    "Parkinson's Disease",
+    "Parkinson's Disease (PD)",
+    "Parkinson's Disease With Wearing-off Motor Fluctuations",
+    "Dementia (Diagnosis)",
+    "Dementia MCI (Mild Cognitive Impairment)"
+   ],
+   "lead_sponsor": "Noah Tech, Corp.",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [],
+   "interventions": [
+    "Structured wellness care",
+    "Wearable brain-computer interface devices",
+    "Stem Cell Therapy - Experimental",
+    "Control - Placebo Comparator"
+   ],
+   "start_date": "2026-09-01",
+   "start_year": 2026,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT02284022",
+   "brief_title": "Clinical Validation Protocol for BCI for the Communication of Patients Suffering From Neuromuscular Disorders.",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "OBSERVATIONAL",
+   "conditions": [
+    "Communication",
+    "Neuromuscular Disease"
+   ],
+   "lead_sponsor": "Centre d'Investigation Clinique et Technologique 805",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Association Française contre les Myopathies (AFM), Paris"
+   ],
+   "interventions": [
+    "Brain computer interface"
+   ],
+   "start_date": "2014-10",
+   "start_year": 2014,
+   "countries": [
+    "France"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT05465486",
+   "brief_title": "NeuroSuitUp: Neurorehabilitation Through Synergistic Man-machine Interfaces",
+   "overall_status": "UNKNOWN",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Spinal Cord Injuries"
+   ],
+   "lead_sponsor": "Aristotle University Of Thessaloniki",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "Brain-Computer Interface control of robotic arms with augmented reality",
+    "Serious game with augmented reality"
+   ],
+   "start_date": "2025-02-01",
+   "start_year": 2025,
+   "countries": [
+    "Greece"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT02791425",
+   "brief_title": "Brain Computer Interface for Communication in Ventilated Patients",
+   "overall_status": "TERMINATED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Mechanical Ventilation",
+    "Nonverbal Communication",
+    "Intratracheal Intubation",
+    "Critical Illness"
+   ],
+   "lead_sponsor": "University of Michigan",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Michigan Institute for Clinical and Health Research (MICHR)"
+   ],
+   "interventions": [
+    "Brain Computer Interface (BCI) device",
+    "Communication picture board"
+   ],
+   "start_date": "2017-03-01",
+   "start_year": 2017,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT04626713",
+   "brief_title": "An Online Home-based Intervention for Anxiety Regulation",
+   "overall_status": "UNKNOWN",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Anxiety"
    ],
    "lead_sponsor": "Duke-NUS Graduate Medical School",
    "lead_sponsor_class": "OTHER",
    "collaborators": [
-    "Agency for Science, Technology and Research",
-    "National University of Singapore",
-    "Singapore Clinical Research Institute",
-    "Singapore General Hospital",
-    "Tan Tock Seng Hospital"
+    "Nanyang Technological University"
    ],
    "interventions": [
     "Brain-Computer Interface"
    ],
-   "start_date": "2015-07",
-   "start_year": 2015,
+   "start_date": "2021-01-05",
+   "start_year": 2021,
    "countries": [
     "Singapore"
    ],
@@ -1308,205 +1308,151 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT07333339",
-   "brief_title": "A Brain-Computer Interface-Based Attention Training Program Compared With Methylphenidate and Citicoline",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "OBSERVATIONAL",
-   "conditions": [
-    "Attention Deficit Hyperactivity Disorder (ADHD)",
-    "Brain Computer Interface"
-   ],
-   "lead_sponsor": "Uludag University",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain-Computer Interface-Based Attention Training"
-   ],
-   "start_date": "2025-02-01",
-   "start_year": 2025,
-   "countries": [
-    "Turkey (Türkiye)"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT04367623",
-   "brief_title": "Motor Conditioning to Enhance the Effect of Physical Therapy",
-   "overall_status": "TERMINATED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Spinal Cord Injuries"
-   ],
-   "lead_sponsor": "NHS Greater Glasgow and Clyde",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "University of Glasgow"
-   ],
-   "interventions": [
-    "Brain computer interface based therapy"
-   ],
-   "start_date": "2020-12-09",
-   "start_year": 2020,
-   "countries": [
-    "United Kingdom"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT06179745",
-   "brief_title": "BCI Driving FES and Hand Orthosis for Upper Limb Rehabilitation in Chronic Stroke",
-   "overall_status": "UNKNOWN",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Stroke, Cerebrovascular",
-    "Hemiplegia and Hemiparesis",
-    "Stroke/Brain Attack"
-   ],
-   "lead_sponsor": "University of Essex",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Azienda Sanitaria dell'Alto Adige",
-    "Landeskrankenhaus Hochzirl"
-   ],
-   "interventions": [
-    "EEG-based brain-computer interface",
-    "Sham EEG-based brain-computer interface",
-    "Functional Electrical Stimulation",
-    "Active hand orthosis"
-   ],
-   "start_date": "2022-03-14",
-   "start_year": 2022,
-   "countries": [
-    "Italy"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT04421365",
-   "brief_title": "Brain-Computer Interfaces in Laryngeal Dystonia",
+   "nct_id": "NCT02550522",
+   "brief_title": "Brain Computer Interface: Neuroprosthetic Control of a Motorized Exoskeleton",
    "overall_status": "RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Laryngeal Dystonia"
+    "Traumatic Tetraplegia with Cervical Cord Injury"
    ],
-   "lead_sponsor": "Kristina Simonyan",
+   "lead_sponsor": "University Hospital, Grenoble",
    "lead_sponsor_class": "OTHER",
    "collaborators": [],
    "interventions": [
-    "neurofeedback brain-computer interface (BCI)"
+    "Brain-computer interface (BCI) platform including two implanted remotely powered ElectroCorticoGraph (ECoG) recording devices and an exoskeleton"
    ],
-   "start_date": "2022-04-18",
-   "start_year": 2022,
+   "start_date": "2015-09",
+   "start_year": 2015,
+   "countries": [
+    "France"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT01707498",
+   "brief_title": "Robust Intelligent Keyboard for Quadraplegic Patients",
+   "overall_status": "UNKNOWN",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Quadraplegia"
+   ],
+   "lead_sponsor": "Centre d'Investigation Clinique et Technologique 805",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "University of Versailles"
+   ],
+   "interventions": [
+    "Scanning device",
+    "RoBIK Brain-Computer Interface"
+   ],
+   "start_date": "2013-02",
+   "start_year": 2013,
+   "countries": [
+    "France"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT00860951",
+   "brief_title": "P300 Brain Computer Interface Keyboard to Operate Assistive Technology",
+   "overall_status": "COMPLETED",
+   "phase": "PHASE1,PHASE2",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Healthy",
+    "Amyotrophic Lateral Sclerosis",
+    "Neuromuscular Disease",
+    "Spinal Cord Injury",
+    "Cerebral Palsy"
+   ],
+   "lead_sponsor": "University of Michigan",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Eunice Kennedy Shriver National Institute of Child Health and Human Development (NICHD)",
+    "U.S. Department of Education"
+   ],
+   "interventions": [
+    "Brain Computer Interface Keyboard"
+   ],
+   "start_date": "2008-09",
+   "start_year": 2008,
    "countries": [
     "United States"
    ],
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT04612426",
-   "brief_title": "the Effectiveness of Brain-computer Interface-pedaling Training System on the Rehabilitation of Stroke",
+   "nct_id": "NCT04815486",
+   "brief_title": "Transcranial Magnetic Stimulation and Mental Representation Techniques for the Treatment of Stroke Patients",
    "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Rehabilitation",
-    "Stroke",
-    "Brain-computer Interface"
-   ],
-   "lead_sponsor": "First Affiliated Hospital Xi'an Jiaotong University",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "Brain-computer Interface-Pedaling Training System",
-    "Traditional Pedaling Training System"
-   ],
-   "start_date": "2020-11-01",
-   "start_year": 2020,
-   "countries": [
-    "China"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT06503484",
-   "brief_title": "fNIRS-BCI Neurofeedback in Stroke Rehabilitation",
-   "overall_status": "RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
     "Stroke"
    ],
-   "lead_sponsor": "The Hong Kong Polytechnic University",
+   "lead_sponsor": "Universidad Francisco de Vitoria",
    "lead_sponsor_class": "OTHER",
    "collaborators": [
-    "RWTH Aachen University"
+    "Hospital Beata María Ana"
    ],
    "interventions": [
-    "Brain-computer interface",
-    "Sham brain-computer interface"
+    "Repetitive Transcranial Magnetic Stimulation (rTMS)",
+    "Motor Imagery (MI) through a Brain-Computer Interface (BCI) training platform in Virtual Reality (VR) with NeuRow"
    ],
-   "start_date": "2024-12-12",
-   "start_year": 2024,
+   "start_date": "2021-05-01",
+   "start_year": 2021,
    "countries": [
-    "Hong Kong"
+    "Spain"
    ],
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT05810220",
-   "brief_title": "Investigating Auditory Processing in the Users of Auditory Brainstem and Cochlear Implants",
+   "nct_id": "NCT05343130",
+   "brief_title": "Efficacy of a Brain-Computer Interface Controlled Functional Electrical Stimulation Therapy for Spinal Cord Injury Neurorehabilitation",
    "overall_status": "RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Deafness"
-   ],
-   "lead_sponsor": "NYU Langone Health",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "Cochlear Americas"
-   ],
-   "interventions": [
-    "Electrode-Neural Interface"
-   ],
-   "start_date": "2018-12-02",
-   "start_year": 2018,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT06511934",
-   "brief_title": "Feasibility of the BrainGate2 Neural Interface System in Persons With Tetraplegia (BG-Tablet-01)",
-   "overall_status": "RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Brainstem Stroke",
-    "ALS",
-    "Tetraplegia",
-    "Spinal Cord Injuries",
     "Cervical Spinal Cord Injury"
    ],
-   "lead_sponsor": "Leigh R. Hochberg, MD, PhD.",
-   "lead_sponsor_class": "OTHER",
+   "lead_sponsor": "Instituto Nacional de Rehabilitacion",
+   "lead_sponsor_class": "OTHER_GOV",
    "collaborators": [
-    "Brown University",
-    "Stanford University",
-    "National Institute on Deafness and Other Communication Disorders (NIDCD)"
+    "Instituto Tecnologico y de Estudios Superiores de Monterey"
    ],
    "interventions": [
-    "BrainGate Neural Interface System"
+    "Brain-Computer Interface",
+    "Sham Brain-Computer Interface"
    ],
-   "start_date": "2024-07-22",
+   "start_date": "2022-08-01",
+   "start_year": 2022,
+   "countries": [
+    "Mexico"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT06690931",
+   "brief_title": "Neurofeedback Rehabilitation With FES and VR for PD",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Parkinson Disease"
+   ],
+   "lead_sponsor": "g.tec medical engineering GmbH",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [],
+   "interventions": [
+    "Brain-Computer Interface with FES and VR",
+    "Motor imagery with Functional Electrical Stimulation and Virtual Reality feedback"
+   ],
+   "start_date": "2024-12-09",
    "start_year": 2024,
    "countries": [
-    "United States"
+    "Austria"
    ],
    "breakthrough_designations": []
   },
@@ -1542,26 +1488,27 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT07791459",
-   "brief_title": "BrainGate2: Feasibility Study of an Intracortical Neural Interface System for Persons With Aphasia",
-   "overall_status": "NOT_YET_RECRUITING",
+   "nct_id": "NCT05810220",
+   "brief_title": "Investigating Auditory Processing in the Users of Auditory Brainstem and Cochlear Implants",
+   "overall_status": "RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Expressive Aphasia",
-    "Aphasia Following Cerebral Infarction",
-    "Aphasia Following Nontraumatic Intracerebral Hemorrhage",
-    "Aphasia Non Fluent"
+    "Deafness"
    ],
-   "lead_sponsor": "Leigh R. Hochberg, MD, PhD.",
+   "lead_sponsor": "NYU Langone Health",
    "lead_sponsor_class": "OTHER",
-   "collaborators": [],
-   "interventions": [
-    "BrainGate Neural Interface System"
+   "collaborators": [
+    "Cochlear Americas"
    ],
-   "start_date": "2026-08",
-   "start_year": 2026,
-   "countries": [],
+   "interventions": [
+    "Electrode-Neural Interface"
+   ],
+   "start_date": "2018-12-02",
+   "start_year": 2018,
+   "countries": [
+    "United States"
+   ],
    "breakthrough_designations": []
   },
   {
@@ -1593,6 +1540,29 @@
    "countries": [
     "United States"
    ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT07791459",
+   "brief_title": "BrainGate2: Feasibility Study of an Intracortical Neural Interface System for Persons With Aphasia",
+   "overall_status": "NOT_YET_RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Expressive Aphasia",
+    "Aphasia Following Cerebral Infarction",
+    "Aphasia Following Nontraumatic Intracerebral Hemorrhage",
+    "Aphasia Non Fluent"
+   ],
+   "lead_sponsor": "Leigh R. Hochberg, MD, PhD.",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [],
+   "interventions": [
+    "BrainGate Neural Interface System"
+   ],
+   "start_date": "2026-11",
+   "start_year": 2026,
+   "countries": [],
    "breakthrough_designations": []
   },
   {
@@ -1630,25 +1600,101 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT06710626",
-   "brief_title": "Control of Assistive Devices Via Brain-Computer Interface Technology",
-   "overall_status": "ENROLLING_BY_INVITATION",
+   "nct_id": "NCT06511934",
+   "brief_title": "Feasibility of the BrainGate2 Neural Interface System in Persons With Tetraplegia (BG-Tablet-01)",
+   "overall_status": "RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Brainstem Stroke",
+    "ALS",
+    "Tetraplegia",
+    "Spinal Cord Injuries",
+    "Cervical Spinal Cord Injury"
+   ],
+   "lead_sponsor": "Leigh R. Hochberg, MD, PhD.",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "Brown University",
+    "Stanford University",
+    "National Institute on Deafness and Other Communication Disorders (NIDCD)"
+   ],
+   "interventions": [
+    "BrainGate Neural Interface System"
+   ],
+   "start_date": "2024-07-22",
+   "start_year": 2024,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT07224256",
+   "brief_title": "VOICE: An Early Feasibility Study of a Precise Robotically Implanted Brain-Computer Interface for Communication Restoration",
+   "overall_status": "RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
     "Tetraplegia/Tetraparesis",
-    "Amyotrophic Lateral Sclerosis (ALS)",
     "Quadriplegia",
-    "Spinal Cord Injury (SCI)",
-    "Spinal Cord Injury Cervical"
+    "Cervical Spinal Cord Injury",
+    "Amyotrophic Lateral Sclerosis",
+    "Quadriplegia/Tetraplegia",
+    "Tetraplegic",
+    "Paralysis",
+    "Stroke"
    ],
    "lead_sponsor": "Neuralink Corp",
    "lead_sponsor_class": "INDUSTRY",
    "collaborators": [],
    "interventions": [
-    "Assistive Robotic Arm"
+    "N1 Implant",
+    "R1 Robot"
    ],
-   "start_date": "2024-11-25",
+   "start_date": "2025-10-03",
+   "start_year": 2025,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": [
+    {
+     "company": "Neuralink",
+     "device": "N1 Implant (brain implant)",
+     "designation_year": 2020,
+     "source_url": "https://www.from-the-interface.com/bci-funding-clinical-trials/"
+    },
+    {
+     "company": "Neuralink",
+     "device": "Speech restoration BCI",
+     "designation_year": 2025,
+     "source_url": "https://www.mobihealthnews.com/news/cortec-becomes-first-german-bci-company-get-fda-breakthrough-designation"
+    }
+   ]
+  },
+  {
+   "nct_id": "NCT06429735",
+   "brief_title": "Precise Robotically IMplanted Brain-Computer InterfacE",
+   "overall_status": "RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Tetraplegia/Tetraparesis",
+    "Quadriplegia",
+    "Cervical Spinal Cord Injury",
+    "Amyotrophic Lateral Sclerosis",
+    "Quadriplegia/Tetraplegia",
+    "Tetraplegic",
+    "Paralysis"
+   ],
+   "lead_sponsor": "Neuralink Corp",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [],
+   "interventions": [
+    "N1 Implant",
+    "R1 Robot"
+   ],
+   "start_date": "2024-01-09",
    "start_year": 2024,
    "countries": [
     "United States"
@@ -1716,76 +1762,26 @@
    ]
   },
   {
-   "nct_id": "NCT06992596",
-   "brief_title": "UAE-PRIME: A Feasibility Study of a Precise Robotically Implanted Brain-Computer Interface for the Control of External Devices",
-   "overall_status": "RECRUITING",
+   "nct_id": "NCT06710626",
+   "brief_title": "Control of Assistive Devices Via Brain-Computer Interface Technology",
+   "overall_status": "ENROLLING_BY_INVITATION",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
     "Tetraplegia/Tetraparesis",
-    "Quadriplegia",
-    "Quadriplegia/Tetraplegia",
-    "Cervical Spinal Cord Injury",
     "Amyotrophic Lateral Sclerosis (ALS)",
-    "Spinal Cord Injury (Quadraplegia)",
-    "Spinal Cord Injury",
-    "Motor Neuron Disease",
-    "Brain Stem Stroke"
-   ],
-   "lead_sponsor": "Neuralink Corp",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [
-    "Cleveland Clinic Abu Dhabi"
-   ],
-   "interventions": [
-    "N1 Implant",
-    "R1 Robot"
-   ],
-   "start_date": "2025-05-09",
-   "start_year": 2025,
-   "countries": [
-    "United Arab Emirates"
-   ],
-   "breakthrough_designations": [
-    {
-     "company": "Neuralink",
-     "device": "N1 Implant (brain implant)",
-     "designation_year": 2020,
-     "source_url": "https://www.from-the-interface.com/bci-funding-clinical-trials/"
-    },
-    {
-     "company": "Neuralink",
-     "device": "Speech restoration BCI",
-     "designation_year": 2025,
-     "source_url": "https://www.mobihealthnews.com/news/cortec-becomes-first-german-bci-company-get-fda-breakthrough-designation"
-    }
-   ]
-  },
-  {
-   "nct_id": "NCT07224256",
-   "brief_title": "VOICE: An Early Feasibility Study of a Precise Robotically Implanted Brain-Computer Interface for Communication Restoration",
-   "overall_status": "RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Tetraplegia/Tetraparesis",
     "Quadriplegia",
-    "Cervical Spinal Cord Injury",
-    "Amyotrophic Lateral Sclerosis",
-    "Quadriplegia/Tetraplegia",
-    "Tetraplegic",
-    "Paralysis",
-    "Stroke"
+    "Spinal Cord Injury (SCI)",
+    "Spinal Cord Injury Cervical"
    ],
    "lead_sponsor": "Neuralink Corp",
    "lead_sponsor_class": "INDUSTRY",
    "collaborators": [],
    "interventions": [
-    "N1 Implant",
-    "R1 Robot"
+    "Assistive Robotic Arm"
    ],
-   "start_date": "2025-10-03",
-   "start_year": 2025,
+   "start_date": "2024-11-25",
+   "start_year": 2024,
    "countries": [
     "United States"
    ],
@@ -1849,31 +1845,35 @@
    ]
   },
   {
-   "nct_id": "NCT06429735",
-   "brief_title": "Precise Robotically IMplanted Brain-Computer InterfacE",
+   "nct_id": "NCT06992596",
+   "brief_title": "UAE-PRIME: A Feasibility Study of a Precise Robotically Implanted Brain-Computer Interface for the Control of External Devices",
    "overall_status": "RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
     "Tetraplegia/Tetraparesis",
     "Quadriplegia",
-    "Cervical Spinal Cord Injury",
-    "Amyotrophic Lateral Sclerosis",
     "Quadriplegia/Tetraplegia",
-    "Tetraplegic",
-    "Paralysis"
+    "Cervical Spinal Cord Injury",
+    "Amyotrophic Lateral Sclerosis (ALS)",
+    "Spinal Cord Injury (Quadraplegia)",
+    "Spinal Cord Injury",
+    "Motor Neuron Disease",
+    "Brain Stem Stroke"
    ],
    "lead_sponsor": "Neuralink Corp",
    "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [],
+   "collaborators": [
+    "Cleveland Clinic Abu Dhabi"
+   ],
    "interventions": [
     "N1 Implant",
     "R1 Robot"
    ],
-   "start_date": "2024-01-09",
-   "start_year": 2024,
+   "start_date": "2025-05-09",
+   "start_year": 2025,
    "countries": [
-    "United States"
+    "United Arab Emirates"
    ],
    "breakthrough_designations": [
     {
@@ -1891,82 +1891,32 @@
    ]
   },
   {
-   "nct_id": "NCT07543367",
-   "brief_title": "INdependence Through Endovascular Neuroprosthetic Technology (INTENT): an Early Feasibility Study",
-   "overall_status": "RECRUITING",
+   "nct_id": "NCT05041114",
+   "brief_title": "SWITCH II Early Feasibility Study: Implantable BCI to Control a Digital Device for People With Paralysis",
+   "overall_status": "WITHDRAWN",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Neurological Disorder",
-    "ALS (Amyotrophic Lateral Sclerosis)",
-    "Motor Neuron Disease",
-    "ALS - Amyotrophic Lateral Sclerosis",
-    "ALS"
+    "Neurologic Disorder",
+    "Paralysis",
+    "Paralysis",
+    "Stroke",
+    "Amyotrophic Lateral Sclerosis",
+    "Muscular Dystrophies",
+    "Spinal Cord Injury",
+    "Stroke, Lacunar",
+    "Stroke, Brainstem",
+    "Upper Limb Injury",
+    "Spinal Muscular Atrophy"
    ],
    "lead_sponsor": "Synchron, Inc.",
    "lead_sponsor_class": "INDUSTRY",
    "collaborators": [],
    "interventions": [
-    "Stentrode"
+    "Motor Neuroprosthesis"
    ],
-   "start_date": "2026-04",
-   "start_year": 2026,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": [
-    {
-     "company": "Synchron",
-     "device": "Stentrode",
-     "designation_year": 2020,
-     "source_url": "https://www.mobihealthnews.com/news/cortec-becomes-first-german-bci-company-get-fda-breakthrough-designation"
-    }
-   ]
-  },
-  {
-   "nct_id": "NCT04723823",
-   "brief_title": "Sensorimotor Imaging for Brain-Computer Interfaces",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Functional Neuroimaging"
-   ],
-   "lead_sponsor": "University of Pittsburgh",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "University of Pittsburgh Medical Center",
-    "Carnegie Mellon University",
-    "Synchron Medical, Inc.",
-    "National Institute of Neurological Disorders and Stroke (NINDS)"
-   ],
-   "interventions": [
-    "Motor or sensory imagery with fMRI"
-   ],
-   "start_date": "2019-08-08",
-   "start_year": 2019,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT03834857",
-   "brief_title": "SWITCH: Stentrode First-in-Human Study of Implantable BCI for Control of a Digital Device",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Neurologic Disorder"
-   ],
-   "lead_sponsor": "Synchron Australia Pty Ltd.",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [],
-   "interventions": [
-    "Stentrode"
-   ],
-   "start_date": "2019-05-27",
-   "start_year": 2019,
+   "start_date": "2022-04-21",
+   "start_year": 2022,
    "countries": [
     "Australia"
    ],
@@ -2046,32 +1996,55 @@
    ]
   },
   {
-   "nct_id": "NCT05041114",
-   "brief_title": "SWITCH II Early Feasibility Study: Implantable BCI to Control a Digital Device for People With Paralysis",
-   "overall_status": "WITHDRAWN",
+   "nct_id": "NCT07543367",
+   "brief_title": "INdependence Through Endovascular Neuroprosthetic Technology (INTENT): an Early Feasibility Study",
+   "overall_status": "RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Neurologic Disorder",
-    "Paralysis",
-    "Paralysis",
-    "Stroke",
-    "Amyotrophic Lateral Sclerosis",
-    "Muscular Dystrophies",
-    "Spinal Cord Injury",
-    "Stroke, Lacunar",
-    "Stroke, Brainstem",
-    "Upper Limb Injury",
-    "Spinal Muscular Atrophy"
+    "Neurological Disorder",
+    "ALS (Amyotrophic Lateral Sclerosis)",
+    "Motor Neuron Disease",
+    "ALS - Amyotrophic Lateral Sclerosis",
+    "ALS"
    ],
    "lead_sponsor": "Synchron, Inc.",
    "lead_sponsor_class": "INDUSTRY",
    "collaborators": [],
    "interventions": [
-    "Motor Neuroprosthesis"
+    "Stentrode"
    ],
-   "start_date": "2022-04-21",
-   "start_year": 2022,
+   "start_date": "2026-05-07",
+   "start_year": 2026,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": [
+    {
+     "company": "Synchron",
+     "device": "Stentrode",
+     "designation_year": 2020,
+     "source_url": "https://www.mobihealthnews.com/news/cortec-becomes-first-german-bci-company-get-fda-breakthrough-designation"
+    }
+   ]
+  },
+  {
+   "nct_id": "NCT03834857",
+   "brief_title": "SWITCH: Stentrode First-in-Human Study of Implantable BCI for Control of a Digital Device",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Neurologic Disorder"
+   ],
+   "lead_sponsor": "Synchron Australia Pty Ltd.",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [],
+   "interventions": [
+    "Stentrode"
+   ],
+   "start_date": "2019-05-27",
+   "start_year": 2019,
    "countries": [
     "Australia"
    ],
@@ -2127,6 +2100,33 @@
    ]
   },
   {
+   "nct_id": "NCT04723823",
+   "brief_title": "Sensorimotor Imaging for Brain-Computer Interfaces",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Functional Neuroimaging"
+   ],
+   "lead_sponsor": "University of Pittsburgh",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "University of Pittsburgh Medical Center",
+    "Carnegie Mellon University",
+    "Synchron Medical, Inc.",
+    "National Institute of Neurological Disorders and Stroke (NINDS)"
+   ],
+   "interventions": [
+    "Motor or sensory imagery with fMRI"
+   ],
+   "start_date": "2019-08-08",
+   "start_year": 2019,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
    "nct_id": "NCT05414422",
    "brief_title": "A Randomized, Placebo-Controlled, Double-Blind Study to Assess Safety and Efficacy of PCN-101 in TRD",
    "overall_status": "COMPLETED",
@@ -2150,103 +2150,6 @@
    "countries": [
     "Germany",
     "Poland",
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT06140706",
-   "brief_title": "Feasibility of Home Based Transcutaneous Spinal Cord Stimulation for Persons With SCI",
-   "overall_status": "NOT_YET_RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Tetraplegia"
-   ],
-   "lead_sponsor": "VA Palo Alto Health Care System",
-   "lead_sponsor_class": "FED",
-   "collaborators": [
-    "ONWARD Medical, Inc."
-   ],
-   "interventions": [
-    "transcutaneous Spinal Cord Stimulation (tSCS)"
-   ],
-   "start_date": "2025-09-01",
-   "start_year": 2025,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT05284201",
-   "brief_title": "LIFT Home Study of Non-Invasive ARC Therapy for Spinal Cord Injury",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Chronic Spinal Cord Injury"
-   ],
-   "lead_sponsor": "ONWARD Medical, Inc.",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [],
-   "interventions": [
-    "LIFT System"
-   ],
-   "start_date": "2022-03-03",
-   "start_year": 2022,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT04697472",
-   "brief_title": "The Up-LIFT Study of Non-Invasive ARC Therapy for Spinal Cord Injury",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Chronic Spinal Cord Injury"
-   ],
-   "lead_sponsor": "ONWARD Medical, Inc.",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [],
-   "interventions": [
-    "LIFT System"
-   ],
-   "start_date": "2021-01-08",
-   "start_year": 2021,
-   "countries": [
-    "Canada",
-    "Netherlands",
-    "United Kingdom",
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT07147296",
-   "brief_title": "ARC-IM System to Manage Symptomatic Blood Pressure Instability Secondary to Chronic Spinal Cord Injury",
-   "overall_status": "RECRUITING",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Spinal Cord Injuries",
-    "Blood Pressure Disorders"
-   ],
-   "lead_sponsor": "ONWARD Medical, Inc.",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [],
-   "interventions": [
-    "ARC-IM System Implantation",
-    "ARC-IM Therapy (Group 1)",
-    "ARC-IM Therapy (Group 2)"
-   ],
-   "start_date": "2025-10-17",
-   "start_year": 2025,
-   "countries": [
-    "Canada",
     "United States"
    ],
    "breakthrough_designations": []
@@ -2301,23 +2204,100 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT07684794",
-   "brief_title": "Regulated Stimulation for Optimized Network Activity and Therapeutic Equilibrium - Maintenance",
+   "nct_id": "NCT05284201",
+   "brief_title": "LIFT Home Study of Non-Invasive ARC Therapy for Spinal Cord Injury",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Chronic Spinal Cord Injury"
+   ],
+   "lead_sponsor": "ONWARD Medical, Inc.",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [],
+   "interventions": [
+    "LIFT System"
+   ],
+   "start_date": "2022-03-03",
+   "start_year": 2022,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT07147296",
+   "brief_title": "ARC-IM System to Manage Symptomatic Blood Pressure Instability Secondary to Chronic Spinal Cord Injury",
+   "overall_status": "RECRUITING",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Spinal Cord Injuries",
+    "Blood Pressure Disorders"
+   ],
+   "lead_sponsor": "ONWARD Medical, Inc.",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [],
+   "interventions": [
+    "ARC-IM System Implantation",
+    "ARC-IM Therapy (Group 1)",
+    "ARC-IM Therapy (Group 2)"
+   ],
+   "start_date": "2025-10-17",
+   "start_year": 2025,
+   "countries": [
+    "Canada",
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT06140706",
+   "brief_title": "Feasibility of Home Based Transcutaneous Spinal Cord Stimulation for Persons With SCI",
    "overall_status": "NOT_YET_RECRUITING",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Major Depressive Disorder (MDD)"
+    "Tetraplegia"
    ],
-   "lead_sponsor": "Motif Neurotech, Inc.",
+   "lead_sponsor": "VA Palo Alto Health Care System",
+   "lead_sponsor_class": "FED",
+   "collaborators": [
+    "ONWARD Medical, Inc."
+   ],
+   "interventions": [
+    "transcutaneous Spinal Cord Stimulation (tSCS)"
+   ],
+   "start_date": "2025-09-01",
+   "start_year": 2025,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT04697472",
+   "brief_title": "The Up-LIFT Study of Non-Invasive ARC Therapy for Spinal Cord Injury",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Chronic Spinal Cord Injury"
+   ],
+   "lead_sponsor": "ONWARD Medical, Inc.",
    "lead_sponsor_class": "INDUSTRY",
    "collaborators": [],
    "interventions": [
-    "Motif XCS System"
+    "LIFT System"
    ],
-   "start_date": "2026-08-10",
-   "start_year": 2026,
-   "countries": [],
+   "start_date": "2021-01-08",
+   "start_year": 2021,
+   "countries": [
+    "Canada",
+    "Netherlands",
+    "United Kingdom",
+    "United States"
+   ],
    "breakthrough_designations": []
   },
   {
@@ -2345,40 +2325,56 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT05339126",
-   "brief_title": "RNS System LGS Feasibility Study",
-   "overall_status": "ACTIVE_NOT_RECRUITING",
-   "phase": "PHASE2",
+   "nct_id": "NCT07684794",
+   "brief_title": "Regulated Stimulation for Optimized Network Activity and Therapeutic Equilibrium - Maintenance",
+   "overall_status": "NOT_YET_RECRUITING",
+   "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Epilepsy",
-    "Lennox Gastaut Syndrome",
-    "Lennox-Gastaut Syndrome, Intractable",
-    "Seizures",
-    "Seizures, Generalized"
+    "Major Depressive Disorder (MDD)"
+   ],
+   "lead_sponsor": "Motif Neurotech, Inc.",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [],
+   "interventions": [
+    "Motif XCS System"
+   ],
+   "start_date": "2026-08-10",
+   "start_year": 2026,
+   "countries": [],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT07823465",
+   "brief_title": "RNS System for Drug-Resistant Focal Epilepsy in Adolescents: A Real-World Study",
+   "overall_status": "ENROLLING_BY_INVITATION",
+   "phase": "NA",
+   "study_type": "OBSERVATIONAL",
+   "conditions": [
+    "Focal Epilepsy",
+    "Drug-resistant Focal Epilepsy"
    ],
    "lead_sponsor": "NeuroPace",
    "lead_sponsor_class": "INDUSTRY",
    "collaborators": [
-    "National Institute of Neurological Disorders and Stroke (NINDS)",
-    "University of Florida"
+    "OM1, Inc."
    ],
    "interventions": [
-    "RNS System"
+    "NeuroPace RNS System"
    ],
-   "start_date": "2022-10-04",
-   "start_year": 2022,
+   "start_date": "2026-09-14",
+   "start_year": 2026,
    "countries": [
     "United States"
    ],
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT00079781",
-   "brief_title": "RNS® System Feasibility Study",
+   "nct_id": "NCT02403843",
+   "brief_title": "RNS® System Epilepsy Post-Approval Study",
    "overall_status": "COMPLETED",
-   "phase": "PHASE2",
-   "study_type": "INTERVENTIONAL",
+   "phase": "NA",
+   "study_type": "OBSERVATIONAL",
    "conditions": [
     "Epilepsy"
    ],
@@ -2386,11 +2382,61 @@
    "lead_sponsor_class": "INDUSTRY",
    "collaborators": [],
    "interventions": [
-    "RNS® System implantation",
-    "RNS® System responsive stimulation"
+    "RNS System"
    ],
-   "start_date": "2004-01",
-   "start_year": 2004,
+   "start_date": "2015-06",
+   "start_year": 2015,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT04839601",
+   "brief_title": "RNS System RESPONSE Study",
+   "overall_status": "TERMINATED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Epilepsy",
+    "Partial Seizure",
+    "Neurostimulator",
+    "Complications",
+    "Drug Resistant Epilepsy",
+    "Focal Epilepsy"
+   ],
+   "lead_sponsor": "NeuroPace",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [],
+   "interventions": [
+    "RNS System"
+   ],
+   "start_date": "2021-10-27",
+   "start_year": 2021,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT02781129",
+   "brief_title": "Navigation and Free Recall in Chronically Implanted Humans",
+   "overall_status": "COMPLETED",
+   "phase": "NA",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Epilepsy"
+   ],
+   "lead_sponsor": "Barbara Jobst",
+   "lead_sponsor_class": "OTHER",
+   "collaborators": [
+    "NeuroPace"
+   ],
+   "interventions": [
+    "electrical stimulation"
+   ],
+   "start_date": "2016-05",
+   "start_year": 2016,
    "countries": [
     "United States"
    ],
@@ -2428,28 +2474,6 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT00158067",
-   "brief_title": "Study of an External Responsive Neurostimulator System on Epileptiform Activity",
-   "overall_status": "COMPLETED",
-   "phase": "PHASE2",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Epilepsy"
-   ],
-   "lead_sponsor": "NeuroPace",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [],
-   "interventions": [
-    "external Responsive Neurostimulator (eRNS) System"
-   ],
-   "start_date": "2002-03",
-   "start_year": 2002,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
    "nct_id": "NCT03868670",
    "brief_title": "Responsive Neurostimulation For Loss Of Control Eating",
    "overall_status": "ACTIVE_NOT_RECRUITING",
@@ -2475,35 +2499,36 @@
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT02781129",
-   "brief_title": "Navigation and Free Recall in Chronically Implanted Humans",
+   "nct_id": "NCT05147571",
+   "brief_title": "RNS System NAUTILUS Study",
    "overall_status": "COMPLETED",
    "phase": "NA",
    "study_type": "INTERVENTIONAL",
    "conditions": [
-    "Epilepsy"
+    "Epilepsy",
+    "Idiopathic Generalized Epilepsy",
+    "Generalized Tonic Clonic Seizure"
    ],
-   "lead_sponsor": "Barbara Jobst",
-   "lead_sponsor_class": "OTHER",
-   "collaborators": [
-    "NeuroPace"
-   ],
+   "lead_sponsor": "NeuroPace",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [],
    "interventions": [
-    "electrical stimulation"
+    "Responsive stimulation",
+    "Sham stimulation"
    ],
-   "start_date": "2016-05",
-   "start_year": 2016,
+   "start_date": "2022-08-09",
+   "start_year": 2022,
    "countries": [
     "United States"
    ],
    "breakthrough_designations": []
   },
   {
-   "nct_id": "NCT02403843",
-   "brief_title": "RNS® System Epilepsy Post-Approval Study",
+   "nct_id": "NCT00079781",
+   "brief_title": "RNS® System Feasibility Study",
    "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "OBSERVATIONAL",
+   "phase": "PHASE2",
+   "study_type": "INTERVENTIONAL",
    "conditions": [
     "Epilepsy"
    ],
@@ -2511,10 +2536,62 @@
    "lead_sponsor_class": "INDUSTRY",
    "collaborators": [],
    "interventions": [
+    "RNS® System implantation",
+    "RNS® System responsive stimulation"
+   ],
+   "start_date": "2004-01",
+   "start_year": 2004,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT00158067",
+   "brief_title": "Study of an External Responsive Neurostimulator System on Epileptiform Activity",
+   "overall_status": "COMPLETED",
+   "phase": "PHASE2",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Epilepsy"
+   ],
+   "lead_sponsor": "NeuroPace",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [],
+   "interventions": [
+    "external Responsive Neurostimulator (eRNS) System"
+   ],
+   "start_date": "2002-03",
+   "start_year": 2002,
+   "countries": [
+    "United States"
+   ],
+   "breakthrough_designations": []
+  },
+  {
+   "nct_id": "NCT05339126",
+   "brief_title": "RNS System LGS Feasibility Study",
+   "overall_status": "ACTIVE_NOT_RECRUITING",
+   "phase": "PHASE2",
+   "study_type": "INTERVENTIONAL",
+   "conditions": [
+    "Epilepsy",
+    "Lennox Gastaut Syndrome",
+    "Lennox-Gastaut Syndrome, Intractable",
+    "Seizures",
+    "Seizures, Generalized"
+   ],
+   "lead_sponsor": "NeuroPace",
+   "lead_sponsor_class": "INDUSTRY",
+   "collaborators": [
+    "National Institute of Neurological Disorders and Stroke (NINDS)",
+    "University of Florida"
+   ],
+   "interventions": [
     "RNS System"
    ],
-   "start_date": "2015-06",
-   "start_year": 2015,
+   "start_date": "2022-10-04",
+   "start_year": 2022,
    "countries": [
     "United States"
    ],
@@ -2560,83 +2637,6 @@
    ],
    "start_date": "2006-04",
    "start_year": 2006,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT04839601",
-   "brief_title": "RNS System RESPONSE Study",
-   "overall_status": "TERMINATED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Epilepsy",
-    "Partial Seizure",
-    "Neurostimulator",
-    "Complications",
-    "Drug Resistant Epilepsy",
-    "Focal Epilepsy"
-   ],
-   "lead_sponsor": "NeuroPace",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [],
-   "interventions": [
-    "RNS System"
-   ],
-   "start_date": "2021-10-27",
-   "start_year": 2021,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT07823465",
-   "brief_title": "RNS System for Drug-Resistant Focal Epilepsy in Adolescents: A Real-World Study",
-   "overall_status": "ENROLLING_BY_INVITATION",
-   "phase": "NA",
-   "study_type": "OBSERVATIONAL",
-   "conditions": [
-    "Focal Epilepsy",
-    "Drug-resistant Focal Epilepsy"
-   ],
-   "lead_sponsor": "NeuroPace",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [
-    "OM1, Inc."
-   ],
-   "interventions": [
-    "NeuroPace RNS System"
-   ],
-   "start_date": "2026-09-14",
-   "start_year": 2026,
-   "countries": [
-    "United States"
-   ],
-   "breakthrough_designations": []
-  },
-  {
-   "nct_id": "NCT05147571",
-   "brief_title": "RNS System NAUTILUS Study",
-   "overall_status": "COMPLETED",
-   "phase": "NA",
-   "study_type": "INTERVENTIONAL",
-   "conditions": [
-    "Epilepsy",
-    "Idiopathic Generalized Epilepsy",
-    "Generalized Tonic Clonic Seizure"
-   ],
-   "lead_sponsor": "NeuroPace",
-   "lead_sponsor_class": "INDUSTRY",
-   "collaborators": [],
-   "interventions": [
-    "Responsive stimulation",
-    "Sham stimulation"
-   ],
-   "start_date": "2022-08-09",
-   "start_year": 2022,
    "countries": [
     "United States"
    ],
