@@ -1,0 +1,50 @@
+name: Test API
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "api/**"
+      - "src/**"
+      - "tests/**"
+      - "requirements.txt"
+      - "Dockerfile"
+      - ".github/workflows/api.yml"
+  pull_request:
+    paths:
+      - "api/**"
+      - "src/**"
+      - "tests/**"
+      - "requirements.txt"
+      - "Dockerfile"
+  workflow_dispatch: {}
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests (pipeline + API, network mocked)
+        run: python -m pytest tests/ -v
+
+      - name: Smoke-test the server
+        run: |
+          uvicorn api.main:app --port 8000 &
+          for attempt in $(seq 1 20); do
+            curl -sf http://127.0.0.1:8000/health && break
+            sleep 1
+          done
+          curl -sf "http://127.0.0.1:8000/trials?limit=1" > /dev/null
+          curl -sf http://127.0.0.1:8000/openapi.json > /dev/null
+
+      - name: Build Docker image
+        run: docker build -t bci-api .
